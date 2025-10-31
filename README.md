@@ -1,4 +1,4 @@
-```markdown
+
 # LootBoxNFT-FHE: Fairness Encrypted, Trust Enabled 🎁
 
 LootBoxNFT-FHE is an innovative NFT standard designed for creating on-chain "loot boxes" that ensure verifiable fairness in their content and opening probabilities. This project leverages **Zama's Fully Homomorphic Encryption (FHE) technology**, enabling privacy-preserving operations that maintain the integrity and secrecy of the loot box contents.
